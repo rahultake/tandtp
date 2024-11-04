@@ -1,0 +1,18 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2024-04-04 14:15:44 --> Could not find the language line "Solution Categories"
+ERROR - 2024-04-04 14:15:44 --> Could not find the language line "Solution Matrix"
+ERROR - 2024-04-04 14:15:44 --> Could not find the language line "Project Statuses"
+ERROR - 2024-04-04 14:15:44 --> Could not find the language line "staff_id"
+ERROR - 2024-04-04 14:15:44 --> Could not find the language line "ratio"
+ERROR - 2024-04-04 14:15:44 --> Could not find the language line "people"
+ERROR - 2024-04-04 14:15:44 --> Could not find the language line "ratio"
+ERROR - 2024-04-04 14:15:46 --> Could not find the language line "Solution Categories"
+ERROR - 2024-04-04 14:15:46 --> Could not find the language line "Solution Matrix"
+ERROR - 2024-04-04 14:15:46 --> Could not find the language line "Project Statuses"
+ERROR - 2024-04-04 14:15:46 --> Could not find the language line "Solution Categories"
+ERROR - 2024-04-04 14:15:46 --> Could not find the language line "Solution Matrix"
+ERROR - 2024-04-04 14:15:46 --> Could not find the language line "Project Statuses"
+ERROR - 2024-04-04 14:15:47 --> Could not find the language line "Solution Categories"
+ERROR - 2024-04-04 14:15:47 --> Could not find the language line "Solution Matrix"
+ERROR - 2024-04-04 14:15:47 --> Could not find the language line "Project Statuses"
